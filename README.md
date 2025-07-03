@@ -28,9 +28,7 @@
 
 <h4 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/CYFARE/CYSHELL/main/CYSHELL_Demo_Play.png" alt="CYSHELL Demo">
-  <br>
-  <a href="https://youtube.com/cyfarelabs/DEMO_VIDEO">Video Demo)</a>
+  <a href="#-features"><img src="https://raw.githubusercontent.com/CYFARE/CYSHELL/main/CYSHELL_Demo_Play.png" alt="CYSHELL Demo"></a>
   <br>
 </h4>
 
